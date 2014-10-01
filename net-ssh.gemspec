@@ -181,7 +181,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project = "net-ssh"
   s.rubygems_version = "1.8.23"
   # s.signing_key = "/mnt/gem/gem-private_key.pem"
-  # s.summary = "Net::SSH: a pure-Ruby implementation of the SSH2 client protocol."
+  s.summary = "Net::SSH: a pure-Ruby implementation of the SSH2 client protocol."
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
